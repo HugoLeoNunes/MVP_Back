@@ -39,6 +39,8 @@ Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para ve
 
 Para viasualizar a API em operação em conjunto com o front end, basta seguir os passos do [readme.md](https://github.com/HugoLeoNunes/MVP_Front/blob/main/meu_app_front/README.md) do [front end](https://github.com/HugoLeoNunes/MVP_Front/tree/main/meu_app_front). 
 
+---
+
 *Insuflado de regozijo, malgrado fugaz o ensejo, colho-o para apetecer alvíssaras e enviar um amplexo.*
 
 [**Dr. Hugo Leonardo Nunes.**](https://www.linkedin.com/in/hugo-leonardo-nunes-474152246/) 
