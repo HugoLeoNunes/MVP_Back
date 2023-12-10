@@ -1,15 +1,13 @@
-# API de MVP
+# LawFlow
 
-Esta é a primeira versão de um projeto (MVP) de uma aplicação Web, planejada para o controle de clientes e processos de um escritório de advocacia, voltado para pessoas com pouca afinidade com tecnologia.  
+## Simplificando o jurídico, conectando advogados ao Futuro!
 
+O objetivo aqui é demonstrar a usabilidade e a empregabilidade da api.
 
-O objetivo aqui é demonstrar a usabilidade e a empregabilidade do aplicativo.
-
-Ainda, destacar que todos os serviços ofertados pela aplicação, podem ter como suporte e, dependendo do contrato firmado, um escritório de advocacia com advogados de renome e grande arcabouço juridico, para auxiliar nas tramitações de seus processos. 
 
 ---
 
-## Como executar 
+**Informações sobre como executar:**
 
 
 Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
@@ -36,3 +34,8 @@ Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reloa
 ```
 
 Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+
+*Insuflado de regozijo, malgrado fugaz o ensejo, colho-o para apetecer alvíssaras e enviar um amplexo.*
+
+[**Dr. Hugo Leonardo Nunes.**](https://www.linkedin.com/in/hugo-leonardo-nunes-474152246/) 
+
