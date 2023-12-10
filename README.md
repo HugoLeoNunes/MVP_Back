@@ -1,7 +1,7 @@
 # LawFlow
   
   
-*Informações sobre como utilizar o app no [readme.md](https://github.com/HugoLeoNunes/MVP_Back/blob/main/meu_app_api/README.md) dentro da pasta meu_app_front*
+*Informações sobre como utilizar o app no [readme.md](https://github.com/HugoLeoNunes/MVP_Back/blob/main/meu_app_api/README.md) dentro da pasta meu_app_api*
 
 
 
